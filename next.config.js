@@ -22,18 +22,22 @@ const nextConfig = {
       {
         source: '/en/august-2022',
         destination: 'https://uur.notion.site/August-2022-8308ec9131f7416ca2d28ca34972aa83',
+        permanent: false
       },
       {
         source: '/tr/agustos-2022',
         destination: 'https://uur.notion.site/A-ustos-2022-a4c0dd9bc02f479f9d21974de5e12152',
+        permanent: false
       },
       {
         source: '/en/july-2022',
         destination: 'https://uur.notion.site/July-2022-b5fdef8c740843d6bf989436efdd12cf',
+        permanent: false
       },
       {
         source: '/tr/temmuz-2022',
         destination: 'https://uur.notion.site/Temmuz-2022-cbf3fab8d2c0411096f053a8f36554fe',
+        permanent: false
       }
     ]
   }
